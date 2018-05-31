@@ -8,4 +8,4 @@
 <div  style="float:left"><img src="https://github.com/mahdihs76/AndroidWorkshop/blob/master/screenshots/screenshot1.png" width="300"  /> </div>
 <div  style="float:left"><img src="https://github.com/mahdihs76/AndroidWorkshop/blob/master/screenshots/screenshot2.png" width="300" /></div>
 <br/>
-Simple Android Application - Android Workshop Computer Department
+CEDepatment Application - Android Workshop Computer Department
