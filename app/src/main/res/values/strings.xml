@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CEDepartment</string>
+    <string name="computer_department">Computer Department</string>
+    <string name="login">LOG IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_error">Login failed! try again later.</string>
+</resources>
