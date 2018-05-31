@@ -8,9 +8,9 @@
 <div  style="float:left"><img src="https://github.com/mahdihs76/AndroidWorkshop/blob/master/screenshots/screenshot1.png" width="300"  /> </div>
 <div  style="float:left"><img src="https://github.com/mahdihs76/AndroidWorkshop/blob/master/screenshots/screenshot2.png" width="300" /></div>
 <br/>
-<li>
-  <ul> <b> email : admin@sharif.ir </b></ul>
-  <ul> <b> password : 123 </b></ul>
-  </li>
+<ul>
+  <li> <b>email : admin@sharif.ir </b></li>
+  <li> <b> password : 123 </b> </li>
+</ul>
 <br/>
 CEDepatment Application - Android Workshop Computer Department
